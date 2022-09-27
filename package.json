@@ -1,0 +1,22 @@
+{
+    "name" : "comp3104",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error not specified\" and exit with 1"
+
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/yaroslavyatsyk/comp3104.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/yaroslavyatsyk/comp3104/issues"
+    },
+    "homepage": "https://github.com/yaroslavyatsyk/comp3104/blob/First/README.md"
+    
+}
