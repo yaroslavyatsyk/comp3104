@@ -1,6 +1,5 @@
 language: node_js
-node_js:
-  - "stable"
+node_js: "16.17.0"
 deploy:
   provider: pages
   skip_cleanup: true
