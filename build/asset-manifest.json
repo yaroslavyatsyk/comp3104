@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/yaroslavyatsyk/comp3104/blob/First/README.md/static/css/main.7a7d29af.css",
+    "main.js": "/yaroslavyatsyk/comp3104/blob/First/README.md/static/js/main.ec185cea.js",
+    "index.html": "/yaroslavyatsyk/comp3104/blob/First/README.md/index.html",
+    "main.7a7d29af.css.map": "/yaroslavyatsyk/comp3104/blob/First/README.md/static/css/main.7a7d29af.css.map",
+    "main.ec185cea.js.map": "/yaroslavyatsyk/comp3104/blob/First/README.md/static/js/main.ec185cea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a7d29af.css",
+    "static/js/main.ec185cea.js"
+  ]
+}
