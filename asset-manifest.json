@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/yaroslavyatsyk/comp3104/static/css/main.7a7d29af.css",
+    "main.js": "/yaroslavyatsyk/comp3104/static/js/main.793bec6d.js",
+    "index.html": "/yaroslavyatsyk/comp3104/index.html",
+    "main.7a7d29af.css.map": "/yaroslavyatsyk/comp3104/static/css/main.7a7d29af.css.map",
+    "main.793bec6d.js.map": "/yaroslavyatsyk/comp3104/static/js/main.793bec6d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a7d29af.css",
+    "static/js/main.793bec6d.js"
+  ]
+}
